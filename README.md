@@ -4,3 +4,8 @@ hello
 ## Team
 - t1dmlgus
 - lsmman
+
+## Language
+- Java (mainly)
+
+
